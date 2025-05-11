@@ -1,0 +1,10 @@
+langchain-huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
+langchain
+python-dotenv
+langchain-community
+ipykernel
+chromadb
