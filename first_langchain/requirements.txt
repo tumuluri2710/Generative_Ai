@@ -1,0 +1,7 @@
+langchain-huggingface
+huggingface_hub
+langchain
+python-dotenv
+langchain-community
+ipykernel
+chromadb
